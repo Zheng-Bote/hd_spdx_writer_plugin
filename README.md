@@ -1,0 +1,1 @@
+# hd_spdx_writer_plugin
